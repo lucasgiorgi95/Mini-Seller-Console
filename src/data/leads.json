@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Ana García",
+    "company": "TechCorp SA",
+    "email": "ana.garcia@techcorp.com",
+    "source": "website",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "2",
+    "name": "Carlos Mendoza",
+    "company": "InnovaSoft",
+    "email": "carlos@innovasoft.com",
+    "source": "referral",
+    "score": 92,
+    "status": "new"
+  },
+  {
+    "id": "3",
+    "name": "María López",
+    "company": "DataFlow Inc",
+    "email": "maria.lopez@dataflow.com",
+    "source": "social_media",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "4",
+    "name": "Roberto Silva",
+    "company": "CloudTech",
+    "email": "roberto@cloudtech.com",
+    "source": "email_campaign",
+    "score": 65,
+    "status": "unqualified"
+  },
+  {
+    "id": "5",
+    "name": "Laura Fernández",
+    "company": "StartupXYZ",
+    "email": "laura@startupxyz.com",
+    "source": "trade_show",
+    "score": 88,
+    "status": "qualified"
+  }
+]
