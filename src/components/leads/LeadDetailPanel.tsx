@@ -139,7 +139,6 @@ export const LeadDetailPanel: React.FC<LeadDetailPanelProps> = ({
       status: lead.status,
     });
     setErrors({});
-    setHasChanges(false);
   };
 
   const handleConvertToOpportunity = async (opportunityData: Omit<Opportunity, 'id' | 'createdAt' | 'leadId'>) => {
@@ -335,7 +334,3 @@ export const LeadDetailPanel: React.FC<LeadDetailPanelProps> = ({
 };
 
 export default LeadDetailPanel;
-function setHasChanges(arg0: boolean) {
-  throw new Error("Function not implemented.");
-}
-
