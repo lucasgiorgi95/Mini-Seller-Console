@@ -5,7 +5,6 @@ import { useApp } from '../../contexts/AppContext';
 import { useLeads } from '../../hooks/useLeads';
 import { LeadsList } from './LeadsList';
 import { LeadDetailPanel } from './LeadDetailPanel';
-import { ImportLeadsButton } from './ImportLeadsButton';
 
 export const LeadsView: React.FC = () => {
   const { t } = useTranslation();

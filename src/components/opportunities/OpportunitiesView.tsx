@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Loader2, Plus, DollarSign, Target, TrendingUp } from 'lucide-react';
+import { Loader2, DollarSign, Target, TrendingUp } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';
 
 export const OpportunitiesView: React.FC = () => {
