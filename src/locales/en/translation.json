@@ -74,5 +74,14 @@
   "clearAllFilters": "Clear all filters",
   "loadingLeadsMessage": "Loading leads information...",
   "sortOrderAsc": "Ascending order",
-  "sortOrderDesc": "Descending order"
+  "sortOrderDesc": "Descending order",
+  "previous": "Previous",
+  "next": "Next",
+  "firstPage": "First page",
+  "lastPage": "Last page",
+  "page": "Page",
+  "of": "of",
+  "to": "to",
+  "results": "results",
+  "showing": "Showing"
 }
