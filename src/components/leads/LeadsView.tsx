@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Loader2, Plus, Users, Award, TrendingUp } from 'lucide-react';
+import { Loader2, Users, Award, TrendingUp, Plus } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';
 import { useLeads } from '../../hooks/useLeads';
 import { LeadsList } from './LeadsList';
