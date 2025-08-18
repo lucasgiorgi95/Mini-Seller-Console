@@ -74,5 +74,14 @@
   "clearAllFilters": "Limpiar todos los filtros",
   "loadingLeadsMessage": "Cargando información de leads...",
   "sortOrderAsc": "Orden ascendente",
-  "sortOrderDesc": "Orden descendente"
+  "sortOrderDesc": "Orden descendente",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "firstPage": "Primera página",
+  "lastPage": "Última página",
+  "page": "Página",
+  "of": "de",
+  "to": "a",
+  "results": "resultados",
+  "showing": "Mostrando"
 }
